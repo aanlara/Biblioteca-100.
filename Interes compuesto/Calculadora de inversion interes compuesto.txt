@@ -1,0 +1,1 @@
+Este algoritmo te deja elegir entre interes simple y compuesto, para luego calculardo.

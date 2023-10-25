@@ -1,0 +1,1 @@
+Es un algoritmo grupal que calcula el interes compuesto con la debida formula

@@ -1,0 +1,1 @@
+Calcula la suma y la multiplicaion de los datos ingresados.

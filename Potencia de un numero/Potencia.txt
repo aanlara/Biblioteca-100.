@@ -1,0 +1,1 @@
+Realiza la potencia de un numero.

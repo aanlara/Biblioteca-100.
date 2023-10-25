@@ -1,0 +1,1 @@
+Este algoritmo permite realizar la suma de 4 valores utiliando arreglos

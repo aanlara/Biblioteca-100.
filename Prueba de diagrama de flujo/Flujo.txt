@@ -1,0 +1,1 @@
+Es la suma de dos numeros, originalmente era un algortimo para entender mejor el diagrama de flujo.

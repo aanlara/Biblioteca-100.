@@ -1,0 +1,1 @@
+Este algortimo permite calcular el monto final del interes simple y compuesto.

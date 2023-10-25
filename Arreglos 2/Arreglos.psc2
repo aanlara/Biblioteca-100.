@@ -1,0 +1,11 @@
+Proceso sin_titulo
+	Definir a Como Entero;
+	Dimension a[6];
+	a[0]<-4;
+	a[1]<-45;
+	a[2]<-124;
+	a[3]<-43;
+	a[4]<-55;
+	a[5]<-a[0]+a[1]+a[2]+a[3]+a[4];
+	Escribir a[5];
+FinProceso

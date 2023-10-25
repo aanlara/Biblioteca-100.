@@ -1,0 +1,1 @@
+Permite calcular el interes ganado mediante el capital invertido.

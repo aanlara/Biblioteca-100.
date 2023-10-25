@@ -1,0 +1,1 @@
+Este algoritmo permite calcular el área de un triángulo mediante su base y altura

@@ -1,0 +1,1 @@
+Este es un simple algoritmo de arreglos que nos da un dato usando los arreglos

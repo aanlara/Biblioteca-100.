@@ -1,0 +1,1 @@
+Este algoritmo permite idetificar el interes simple y compuesto, mediante las formulas que se encuentran.

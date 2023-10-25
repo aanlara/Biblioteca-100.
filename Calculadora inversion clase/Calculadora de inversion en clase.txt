@@ -1,0 +1,1 @@
+Asi mismo permite calcular el interes compuesto y simple, pero con diferente formula.

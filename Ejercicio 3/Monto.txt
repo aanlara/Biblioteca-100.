@@ -1,0 +1,1 @@
+Calcula el monto del descuento y el total a pagar.

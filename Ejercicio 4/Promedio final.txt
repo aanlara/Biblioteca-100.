@@ -1,0 +1,1 @@
+Calcula el promedio final mediante 5 notas durante el año lectivo.
