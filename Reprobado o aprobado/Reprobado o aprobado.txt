@@ -1,0 +1,1 @@
+Identifica si un alumno es reprobado o aprobado mediante sus notas.

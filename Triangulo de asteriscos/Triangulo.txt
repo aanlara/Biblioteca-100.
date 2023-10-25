@@ -1,0 +1,1 @@
+Realiza un triangulo de asteriscos
